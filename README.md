@@ -1,54 +1,63 @@
-# Amit Kumar – Electronics Graduate | M.Sc. Electronics (2023–2025)
+# Amit Kumar – Electronics Graduate
 
-Hi! I'm Amit Kumar, currently pursuing a Master's in Electronics from the University of Delhi. I’m interested in exploring opportunities in electronics, embedded systems, and related fields. While I’m still building hands-on experience, I have a strong academic foundation and a willingness to learn.
+Hi, I'm Amit Kumar from New Delhi, India. I have recently completed my M.Sc. in Electronics and hold a B.Sc. (Hons) in Electronic Science. I am currently exploring technical roles where I can continue learning and apply my academic foundation in electronics and related areas.
 
 ---
 
-## 📘 Education
+## 🎓 Education
 
-- **M.Sc. in Electronics**  
-  University of Delhi | 2023 – 2025 (ongoing)  
-  *Subjects studied include:*  
-  - Digital & Analog Electronics  
-  - Semiconductor Devices  
-  - Microcontrollers and Embedded Systems  
-  - Basics of VLSI Design  
-  - Computer Architecture
+### Master of Science (M.Sc.) in Electronics  
+**University of Delhi**  
+2023 – 2025  
+**Final CGPA:** 7.2  
 
-- **B.Sc. (Hons) in Electronic Science**  
-  Acharya Narendra Dev College, University of Delhi | 2020 – 2023  
+### Bachelor of Science (B.Sc. Hons.) in Electronic Science  
+**Acharya Narendra Dev College, University of Delhi**  
+2020 – 2023  
+**Final CGPA:** 7.4  
 
-- **Class 12 – Science Stream (CBSE)**  
-  Government Boys Senior Secondary School, New Delhi | 2020  
+### Class 12 – Science Stream (CBSE)  
+Government Boys Senior Secondary School, New Delhi  
+2018 – 2020  
 
-- **Class 10 – General Studies (CBSE)**  
-  Government Boys Senior Secondary School, New Delhi | 2018  
+### Class 10 – General Studies (CBSE)  
+Government Boys Senior Secondary School, New Delhi  
+2017 – 2018  
 
 ---
 
 ## 🧠 Skills
 
-- **Programming:**  
-  - C, C++  
-  - Basic Python  
-  - HTML, CSS, JavaScript (basic)
+- **Programming Languages:**  
+  C, C++, Basic Python  
 
-- **Tools & Concepts:**  
-  - Digital Electronics & Logic Design  
-  - Basic Analog Circuit Concepts  
-  - PCB Design (using EasyEDA)  
-  - MS Office (Word, Excel, PowerPoint)
+- **Web Technologies:**  
+  HTML, CSS, JavaScript (Basic)
 
-- **Learning Interests:**  
-  - Embedded systems  
-  - Basic exposure to VLSI concepts  
-  - Computer architecture fundamentals  
+- **Tools & Knowledge Areas:**  
+  - Digital Electronics  
+  - Analog Electronics  
+  - Basic PCB Design (using EasyEDA)  
+  - Semiconductor Devices  
+  - Microcontrollers (theoretical understanding)  
+  - Basic understanding of VLSI concepts  
+  - Computer Architecture  
+
+- **Other Tools:**  
+  - MS Office (Word, Excel, PowerPoint)  
+  - Basic report writing and documentation
 
 ---
 
-## 📌 Certifications
+## 📄 Certifications
 
-- **Crash Course in Electronics & PCB Design** – Ongoing
+- Crash Course in Electronics & PCB Design (Ongoing)
+
+---
+
+## 🌱 Current Goal
+
+I am looking to start my journey in a technical or electronics-focused role where I can grow practically, gain experience, and contribute sincerely. I may not have hands-on experience with industry tools yet, but I am a quick learner with a solid academic foundation and willingness to improve.
 
 ---
 
@@ -60,4 +69,4 @@ Hi! I'm Amit Kumar, currently pursuing a Master's in Electronics from the Univer
 
 ---
 
-> I’m currently looking for opportunities where I can apply my knowledge, improve my practical skills, and grow in a technical role. Thank you for visiting!
+Thanks for visiting!
