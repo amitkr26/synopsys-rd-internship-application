@@ -1,63 +1,39 @@
-# Amit Kumar – Electronics Graduate
+# Amit Kumar – MSc Electronics Graduate
 
-Hi, I'm Amit Kumar from New Delhi, India. I have recently completed my M.Sc. in Electronics and hold a B.Sc. (Hons) in Electronic Science. I am currently exploring technical roles where I can continue learning and apply my academic foundation in electronics and related areas.
+Hello, I'm Amit Kumar. I have completed my MSc in Electronics from the University of Delhi (2023–2025), and my BSc (Hons) in Electronic Science from Acharya Narendra Dev College, University of Delhi (2020–2023).
+
+Right now, I am looking for any entry-level job or internship opportunity where I can start from scratch, learn through real experience, and grow over time.
 
 ---
 
 ## 🎓 Education
 
-### Master of Science (M.Sc.) in Electronics  
-**University of Delhi**  
-2023 – 2025  
-**Final CGPA:** 7.2  
+- **M.Sc. in Electronics**  
+  University of Delhi  
+  2023 – 2025  
+  **Final CGPA:** 7.2
 
-### Bachelor of Science (B.Sc. Hons.) in Electronic Science  
-**Acharya Narendra Dev College, University of Delhi**  
-2020 – 2023  
-**Final CGPA:** 7.4  
-
-### Class 12 – Science Stream (CBSE)  
-Government Boys Senior Secondary School, New Delhi  
-2018 – 2020  
-
-### Class 10 – General Studies (CBSE)  
-Government Boys Senior Secondary School, New Delhi  
-2017 – 2018  
+- **B.Sc. (Hons.) in Electronic Science**  
+  Acharya Narendra Dev College, University of Delhi  
+  2020 – 2023  
+  **Final CGPA:** 7.4
 
 ---
 
-## 🧠 Skills
+## 💡 Current Knowledge Level
 
-- **Programming Languages:**  
-  C, C++, Basic Python  
-
-- **Web Technologies:**  
-  HTML, CSS, JavaScript (Basic)
-
-- **Tools & Knowledge Areas:**  
-  - Digital Electronics  
-  - Analog Electronics  
-  - Basic PCB Design (using EasyEDA)  
-  - Semiconductor Devices  
-  - Microcontrollers (theoretical understanding)  
-  - Basic understanding of VLSI concepts  
-  - Computer Architecture  
-
-- **Other Tools:**  
-  - MS Office (Word, Excel, PowerPoint)  
-  - Basic report writing and documentation
+- I have basic academic exposure to subjects like Digital Electronics, Analog Circuits, Semiconductor Devices, and Microcontrollers, but my practical understanding is limited.
+- I have completed a PCB design course, but honestly, I could not learn much from it.
+- I have basic knowledge of C, C++, and Python, but I’m not confident in programming yet.
+- I have taken some online certificate courses, but I don’t have deep understanding of the content.
 
 ---
 
-## 📄 Certifications
+## 🧭 What I’m Looking For
 
-- Crash Course in Electronics & PCB Design (Ongoing)
-
----
-
-## 🌱 Current Goal
-
-I am looking to start my journey in a technical or electronics-focused role where I can grow practically, gain experience, and contribute sincerely. I may not have hands-on experience with industry tools yet, but I am a quick learner with a solid academic foundation and willingness to improve.
+- I am actively looking for **any beginner-friendly opportunity** (internship, trainee, or support role) where I can be trained, guided, and work sincerely.
+- I’m fully aware that I don’t have strong technical skills yet, but I’m ready to **learn everything from scratch**.
+- I’m honest, hardworking, and serious about improving myself step by step.
 
 ---
 
@@ -69,4 +45,4 @@ I am looking to start my journey in a technical or electronics-focused role wher
 
 ---
 
-Thanks for visiting!
+*Thank you for visiting this page. I’m just getting started, and I hope to build myself up through real learning and honest work.*
