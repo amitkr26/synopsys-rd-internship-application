@@ -1,51 +1,63 @@
-# Application for R&D Internship at Synopsys
+# Amit Kumar – Electronics Graduate | M.Sc. Electronics (2023–2025)
 
-Hello Navnish Sir,
-
-I’m Amit Kumar, a recent MSc Electronics graduate from University of Delhi (2023–2025), actively seeking internship opportunities in the field of VLSI, Embedded Systems, and Digital Design.
-
-Although I am not a B.Tech student and have done a short internship before, I’m sharing this to respectfully express my strong interest in learning and growing with the R&D Engineering team at Synopsys. I am sincerely motivated and ready to work hard to prove my abilities.
+Hi! I'm Amit Kumar, currently pursuing a Master's in Electronics from the University of Delhi. I’m interested in exploring opportunities in electronics, embedded systems, and related fields. While I’m still building hands-on experience, I have a strong academic foundation and a willingness to learn.
 
 ---
 
-## ⚙️ Why I'm a Good Fit
+## 📘 Education
 
-- ✅ Strong foundation in **C/C++**, Digital & Analog Electronics
-- ✅ Basic knowledge of **Python, HTML/CSS/JS**, and Web Development
-- ✅ Familiar with PCB design, microcontrollers (Arduino, Raspberry Pi)
-- ✅ Quick learner with hands-on internship experience (details below)
-- ✅ Strong interest in **semiconductor design and fabrication**, as studied in MSc coursework
+- **M.Sc. in Electronics**  
+  University of Delhi | 2023 – 2025 (ongoing)  
+  *Subjects studied include:*  
+  - Digital & Analog Electronics  
+  - Semiconductor Devices  
+  - Microcontrollers and Embedded Systems  
+  - Basics of VLSI Design  
+  - Computer Architecture
 
----
+- **B.Sc. (Hons) in Electronic Science**  
+  Acharya Narendra Dev College, University of Delhi | 2020 – 2023  
 
-## 🔧 Technical Skills
+- **Class 12 – Science Stream (CBSE)**  
+  Government Boys Senior Secondary School, New Delhi | 2020  
 
-- **Languages**: C, C++, Python (basic)
-- **Tools**: Arduino IDE, PCB Design (EasyEDA), GitHub, MS Office
-- **Concepts**: Digital Design, Semiconductor Devices, Fabrication & Characterization, Analog Circuits
-- **Others**: SEO, Report Writing, Basic Web Dev
-
----
-
-## 🧪 Internship Experience
-
-**Electronics Engineer Intern**  
-Sagedel Technologies Pvt. Ltd. – New Delhi (Jun 2023 – Sep 2023)  
-- Worked on component selection, testing, prototyping
-- Assisted in preparing documentation and technical reports
-- Contributed to debugging and optimizing circuits
+- **Class 10 – General Studies (CBSE)**  
+  Government Boys Senior Secondary School, New Delhi | 2018  
 
 ---
 
-## 📌 Why I Want to Join Synopsys
+## 🧠 Skills
 
-- Synopsys is a global leader in semiconductor design automation and innovation.
-- I want to build a long-term technical career in this domain and learn from world-class engineers.
-- I am ready to start from the basics and dedicate myself fully to this opportunity.
+- **Programming:**  
+  - C, C++  
+  - Basic Python  
+  - HTML, CSS, JavaScript (basic)
+
+- **Tools & Concepts:**  
+  - Digital Electronics & Logic Design  
+  - Basic Analog Circuit Concepts  
+  - PCB Design (using EasyEDA)  
+  - MS Office (Word, Excel, PowerPoint)
+
+- **Learning Interests:**  
+  - Embedded systems  
+  - Basic exposure to VLSI concepts  
+  - Computer architecture fundamentals  
 
 ---
 
-Thank you for reviewing my application!
+## 📌 Certifications
 
-*– Amit Kumar*  
-[LinkedIn Profile](https://www.linkedin.com/in/amitkr26)
+- **Crash Course in Electronics & PCB Design** – Ongoing
+
+---
+
+## 📫 Contact
+
+- **Email:** amitkr2636@gmail.com  
+- **LinkedIn:** [https://linkedin.com/in/amitkr26](https://linkedin.com/in/amitkr26)  
+- **Location:** New Delhi, India
+
+---
+
+> I’m currently looking for opportunities where I can apply my knowledge, improve my practical skills, and grow in a technical role. Thank you for visiting!
